@@ -1,0 +1,320 @@
+.channels-left{
+    background-color: #202225;
+    color: #fff;
+}
+
+.menu-left{
+    background-color: #2F3136;
+    padding-bottom:20px;
+}
+
+.menu-left-options{
+    margin-top:10px;
+}
+
+.logo{
+    margin-top:10px;
+}
+
+.btn-option{
+    width:100%;
+    margin-bottom:10px;
+    background-color:transparent;
+    text-align:left;
+    color:#636567;
+    border:none;
+    padding:10px;
+    border-radius:2px;
+    display:inherit;
+    cursor:pointer;
+}
+
+.btn-option:hover{
+    color:#fff;
+    background-color:#36393F;
+}
+
+.btn-option:active{
+    color:#fff;
+    background-color:#42464D;
+}
+
+.btn-option:focus{
+    outline:none;
+}
+
+h2.personal-chat-title{
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.friend-icon{
+    width:100%;
+}
+
+.friend-name{
+    margin:0px;
+    color:#636567;
+}
+
+.status-online{
+    font-size:10px;
+    color:green;
+    margin:0px;
+    float:left;
+}
+.status-offline{
+    font-size:10px;
+    color:#636567;
+    margin:0px;
+    float:left;
+}
+.status-away{
+    font-size:10px;
+    color:orange;
+    margin:0px;
+    float:left;
+}
+.status-busy{
+    font-size:10px;
+    color:darkred;
+    margin:0px;
+    float:left;
+}
+
+.single-chat{
+    padding:10px;
+    cursor:pointer;
+}
+
+.single-chat:hover{
+    color:#fff;
+    background-color:#36393F;
+}
+
+.single-chat:hover > p.friend-name{color:#fff;}
+
+.friend-options{
+    padding: 15px;
+    padding-left: 0px;
+    border-bottom: 1px solid #DCDDDE;
+    margin-bottom: 10px;
+}
+
+.friend-icon-col{
+    padding-right: 0px!important;
+}
+
+.btn-add-friend{
+    background-color:cornflowerblue;
+    border-radius:5px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:#fff;
+    border:none;
+    display: inline-block;
+    cursor:pointer;
+}
+
+.btn-add-friend:hover{
+    border:none;
+    color:#fff;
+    text-decoration:none;
+}
+
+.filter-option{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left:10px;
+    color: #000;
+}
+.filter-option:hover{
+    background-color: lightgray;
+    border-radius: 4px;
+    color: #000;
+    text-decoration: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.filter-option:active{
+    background-color:#2F3136;
+    color:#fff;
+    border-radius:4px;
+}
+
+.friend-list-titles{
+    padding-top: 13px;
+    border-bottom: 1px solid #DCDDDE;
+    color: #aaa;
+    text-transform: uppercase;
+    padding-left:10px;
+}
+
+.single-friend{
+    padding-top: 12px;
+    border-bottom: 1px solid;
+    border-bottom: 1px solid #DCDDDE;
+    padding-left:10px;
+    cursor:pointer;
+}
+.single-friend:hover{
+    background-color:#F6F6F7;
+}
+
+.big-status-online{
+    color:green;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.big-status-offline{
+    color:gray;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.big-status-away{
+    color:orange;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.big-status-busy{
+    color:darkred;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+
+.friend-details{
+    padding: 15px;
+    padding-left: 0px;
+    border-bottom: 1px solid #DCDDDE;
+}
+
+.friend-chat-details{
+    font-size:20px;
+    font-weight:bold;
+    color:#2F3136;
+    margin:0px;
+}
+
+.chatmsg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #DCDDDE;
+    padding-bottom: 10px;
+}
+
+.chatmsgpersistent{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #DCDDDE;
+    padding-bottom: 10px;
+}
+
+.sender-details{
+    margin: 0px;
+    font-weight: bold;
+}
+
+.send-details{
+    font-size:10px;
+    color:#aaa;
+    font-weight:normal;
+}
+
+.msg-sentence{
+    margin:0px;
+    color:#aaa;
+    font-size:15px;
+}
+
+.chat-content{
+    padding-bottom: 15px;
+}
+
+.input-chat{
+    width: 100%;
+    padding: 10px;
+    background-color: #f6f6f7;
+    border: none;
+    color: #737f8d;
+    border-radius: 5px;
+}
+
+.input-chat:focus{
+    outline:none;
+}
+
+.messagebox{
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.urlstyling:hover{
+    text-decoration: none;
+}
+
+.btn-chat-send{
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid #aaa;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    cursor:pointer;
+}
+
+.profile-data{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.single-search-user{
+    padding-bottom: 15px;
+    border-bottom: 1px solid #DCDDDE;
+    margin-bottom: 15px;
+}
+
+input#SearchInput{
+    padding: 22px;
+    padding-left: 10px;
+}
+
+.btn-add-friend-small{
+    background-color: transparent;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+    width: fit-content;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+div#addFriendResultText{
+    padding-bottom: 20px;
+    color: green;
+    text-transform: uppercase;
+}
+
+.unreadMsg{
+    float: left;
+    font-size: 10px;
+    color: indianred;
+    margin: 0px;
+    padding-left: 15px;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.channels-left{
+    height: calc(100vh - 17px);
+}

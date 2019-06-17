@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chatsystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6c76547-af7e-4ea4-b0a9-1425bd307996" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chatsystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0044553a80a8b1c9ade42062e6375d74f688e376" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03be2043ba125efb9b5dfa54d1d7459056bd6151" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05fa24896f424497c7203f539aa0be59dbf8e1ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0627d1dd70b77f16823a3b88692185960d527fa4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/088fd938449c414ae2131984d11285c6b7aa23ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11534104a33cf408b9d2c8ccd3302b63c45f326c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e3126e07495f987b005a235fd87617ee239c4a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2ff0f7a27f19f8449ebf6bfbb678682e8cbfdbdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33ac260ecb17c75fa0747502e68b4b376c7b1a36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38b8e642312675eae0721c755ea39ec6df2e0624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3ff9508f31bda2a03d747f863fcbd91051ef9d96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41c64365bedf96a183d0a1c101cfa86dfb59d329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4afaee8feac9d923e4bde0c4b99d114d4747a3b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4ccf57e1361740c2a6fbe84f9baa35bf8515c6eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53dd1a5748a06c7bf99d83e07ff1288ef606ad2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/568bd045eb818bb481a0167e90a8eb059f76f83b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56d6432bad16da70b7dca14a8b8ac738b8d1e010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58764c8c12de208c3959e824dbb9a4e13babbff5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/682b43ade1521b3b387ce76d4cc5a8da5ed72191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68517d880e98941e09561d98b1b36db2f7d0796c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68b292e0b29f35309eb2dd960d033d9979684cd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c5527acf0335fee0f636eaa4b7695960d3d7f5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77f692015acade43835c3015ff6bfd7c7cba7b8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79cb143a06794320246e9ad3485226bfb96db64a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79cefcdc7344dcbefba957397e1ca40150fbc17c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7acdeddb7727e81b0614f853cddbc2445b865d8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ad42954e23d973663cabc071e970d0770545828" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7ddaea3362b0c540b19552f08e2418156c0b8a58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81e4b87b75008275b5a11fb98d4e9a86b05961ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84ff898227f9b8a9d867f8c08f5dd68b9cb02a05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86700fcb282153510967881002df692521c7b6a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86cab99d5c163fb021113abf16e0b7029c36692d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dd6d2e5eb3d582a6368c3c19c2faf0be8258eaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92ad3e5d85ac820b2fbf7b33b2886d70fb6af872" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a0d285a413586ac171e5e40f2fbdc7bfaf4d1bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a28f77a928f574880c17002d2a38314c243ecff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ef906645edc619b83df0df47710b0019720b555" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a41f2cec8c63d0527101444bde3d632386e54f57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab1d156b3aafc8b1f43f610bfa6650a941080565" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6df93c0baaaf7123ef933ee320a3bd99b247e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2a290d26540387eab7b74247ab72d8886ffb77b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc3af048cc2f25f5ce85619910721d43b131eaa5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc6827fe83426800b5f35f3be9075640a22d94a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c00bfeb68162d91db20a3269c643f76f9dda2ac0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c21ace12ed96c343695430637261034d986f877e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c26e612f7870c5d44feb2b10360391fffb12a146" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3ad9a9023a8f823be04a847c0dba15fbd1e45c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c46be406cd90f892ff3ef790caa334ed00d7e7ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5b251be8e8f0327bb03dfecc36399b1f56ddc25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6d947ee10a60ca8e2c75228bbf03cd340e9b715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7996c035d57c14be40b7cd4196ca675f280fa1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd5babec924c0862ff593cc0e83b4aa9a984bc22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6d10d324c67eb597305dd7c06eabbac1d2c00cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8f1420986fc1e3bb4557146570e9c60b5dad915" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfa44956436e7f0c257aeceac488babf5f318de4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e497564f0fe5329f43ea0b05d7033a875e501624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6067b72cb5fa2b7ec88e27d084f13f4a4bb1c9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a7e22ced4495b57963ec32453d88d455955245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e703ba8b3af505a8156c6e6c6852cb9956ec0b37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e76b93ea626665b0f44e7f334f7ff2a81b46c464" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7f1a25a0581cb49df2fcd3986644629197cae5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e91a6bf78f3e75a73033981e58b4834b5e24cf7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef0a15c939b4b1058f15850d49ea05824fdd2e5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb000899f4843b80dcc790e2ee02310f58bbaee6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb068d9c63b8910b06bab22c581a0c691a3c4c3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc8f332ec3bf1e8a88010f988396bc27553c3725" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdafdccc1945704e4901d9678c130a392641bc82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemGUILogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chatsystem/IChatSystemGUILogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chatsystem/IChatSystemLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/mssql/ChannelMSSQLContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/mssql/PermissionMSSQLContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/mssql/RoleMSSQLContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/mssql/UserMSSQLContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/test/ChannelTestContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/test/PermissionTestContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/test/RoleTestContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/context/test/UserTestContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Channel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Chatroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Permission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/rest/RestForgotMailDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/rest/RestForgotPasswordDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/rest/RestLoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/rest/RestRegistrationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/rest/RestResultDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/sockets/AddFriendDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/sockets/AddFriendToChannelDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/sockets/LoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/sockets/SendMsgDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helper/ConnectionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logging/ILogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logging/LogLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logging/LogMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logging/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/ChannelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/IChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/IPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/IRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/IUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/PermissionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/BaseRESTClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/ChatREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/ChatRESTClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/ChatRESTServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/IChatAuthentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/IRESTClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/ClientMessageGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/ChatClientSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/IClientSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/notify/GUINotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/client/notify/IClientNotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/ChatGenericMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/EnumOperationMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/ChatServerSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/IServerSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chatsystem/ChatSystemGUILogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chatsystem/ChatSystemLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chatsystem/IChatSystemGUILogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chatsystem/IChatSystemLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/mssql/ChannelMSSQLContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/mssql/PermissionMSSQLContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/mssql/RoleMSSQLContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/mssql/UserMSSQLContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/test/ChannelTestContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/test/PermissionTestContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/test/RoleTestContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/context/test/UserTestContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Channel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Chatroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dto/rest/RestLoginDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dto/rest/RestRegistrationDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dto/rest/RestResultDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helper/ConnectionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logging/ILogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logging/LogLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logging/LogMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logging/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/ChannelRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/IChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/IPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/IRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/IUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/PermissionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/RoleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/BaseRESTClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/ChatREST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/ChatRESTClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/ChatRESTServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/IChatAuthentication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/IRESTClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/ChatClientSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/IClientSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/messaging/ClientMessageGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/messaging/ClientMessageHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/messaging/ClientMessageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/messaging/ClientMessageProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/notify/GUINotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/client/notify/IClientNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/ChatGenericMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/EnumOperationMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IClientMessageGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IClientMessageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IClientMessageProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IServerMessageGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IServerMessageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messaging/IServerMessageProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/ChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/ChatServerSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/IServerSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/messaging/ServerMessageGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/messaging/ServerMessageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/server/messaging/ServerMessageProcessor.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login</find>
+      <find>card</find>
+      <find>men</find>
+      <find>btn-op</find>
+      <find>DELETE</find>
+      <find>update</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/context/test/ChannelTestContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/IChatAuthentication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/rest/RestForgotMailDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/rest/RestForgotPasswordDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/IRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystemgui/pages/login.php" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystemgui/js/ChatResponses.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystemgui/js/ChatCalls.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystemgui/js/custom.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystemgui/js/websockets.js" />
+        <option value="$PROJECT_DIR$/src/main/java/repository/AuthenticationRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repository/IAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repository/AccountRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystem/IChatSystemLogic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystem/IChatSystemGUILogic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repository/IUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/context/mssql/UserMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/rest/RestResultDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/ChatRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemLogic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/IChatAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/context/mssql/RoleMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/context/mssql/PermissionMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/context/mssql/ChannelMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/sockets/LoginDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messaging/EnumOperationMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/sockets/AddFriendDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/sockets/SendMsgDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/sockets/AddFriendToChannelDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/notify/IClientNotify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/notify/GUINotify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/ChatClientSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/ChatServerSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/context/test/UserTestContext.java" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemGUILogic.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/BaseRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/ChatREST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/ClientMessageGenerator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chatsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="chatsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chatsystem" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ChatRESTServer">
+    <configuration name="ChatRESTServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rest.ChatRESTServer" />
+      <module name="chatsystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websockets.server.ChatServer" />
+      <module name="chatsystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websockets.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="chatsystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_chatsystem" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49706" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="chatsystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8" />
+      <item itemvalue="Application.ChatRESTServer" />
+      <item itemvalue="Application.ChatServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatRESTServer" />
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c76547-af7e-4ea4-b0a9-1425bd307996" name="Default" comment="" />
+      <created>1546454309738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546454309738</updated>
+      <workItem from="1546454310895" duration="1890000" />
+      <workItem from="1546502327205" duration="2460000" />
+      <workItem from="1547457626355" duration="607000" />
+      <workItem from="1547460525116" duration="1255000" />
+      <workItem from="1547627161490" duration="4179000" />
+      <workItem from="1547710727366" duration="1155000" />
+      <workItem from="1547713172802" duration="5228000" />
+      <workItem from="1547796148660" duration="3757000" />
+      <workItem from="1547799995903" duration="135000" />
+      <workItem from="1547800936741" duration="84000" />
+      <workItem from="1547813802633" duration="295000" />
+      <workItem from="1547814139788" duration="8820000" />
+      <workItem from="1547847080152" duration="2461000" />
+      <workItem from="1547972730334" duration="11077000" />
+      <workItem from="1548055942592" duration="6665000" />
+      <workItem from="1548064394882" duration="10569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65938000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32905984" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3190883" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29060403" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/IChatAuthentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/IRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/test/UserTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/test/RoleTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/test/PermissionTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/test/ChannelTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/IServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemGUILogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/notify/IClientNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/sockets/LoginDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chatsystem/ChatSystemLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/IClientSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.2.7.v20150116/websocket-common-9.2.7.v20150116.jar!/org/eclipse/jetty/websocket/common/events/annotated/CallableMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/util/EntityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/message/HeaderGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/message/AbstractHttpMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/client/methods/AbstractExecutionAwareRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/client/methods/HttpPost.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/util/Args.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/client/methods/HttpRequestBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1001#1002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/client/utils/URIUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/execchain/HttpResponseProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#1828#1829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ChatRESTServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/rest/RestLoginDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/mssql/UserMSSQLContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7.jar!/org/glassfish/jersey/server/model/internal/ResourceMethodInvocationHandlerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/ChatServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ChatRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/BaseRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ChatREST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/notify/GUINotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="172" column="5" lean-forward="true" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/ChatClientSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/ChatGenericMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/ClientMessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(¼×éÜøÿÿÿÿ8Ò¹Â¨‡-
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(âÆÆ¾øÿÿÿÿ8Ò¹Â¨‡-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8Ò¹Â¨‡-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(œ†²…8Ò¹Â¨‡-
+Žsquid:S1319i"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(óÕ±…8Ò¹Â¨‡-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(û•€É8Ò¹Â¨‡-

@@ -1,0 +1,15 @@
+
+squid:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ß¥¾8İŞ¯—†-
+Ksquid:S2447R"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Ksquid:S2447M"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+squid:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÈ`8‘É¢Ÿ‰-
+Ksquid:S2447>"-Null is returned but a "Boolean" is expected.(¥¹ï8¬‹°—†-
+Ksquid:S2447/"-Null is returned but a "Boolean" is expected.(¥¹ï8„—ûû†-
+Ksquid:S2447"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Isquid:S1168W"+Return an empty collection instead of null.(¥¹ï8‘É¢Ÿ‰-
+Ksquid:S2447C"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Ksquid:S2447*"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Ksquid:S2447H"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Isquid:S11684"+Return an empty collection instead of null.(¥¹ï8İŞ¯—†-
+Ksquid:S2447"-Null is returned but a "Boolean" is expected.(¥¹ï8İŞ¯—†-
+Isquid:S1168\"+Return an empty collection instead of null.(¥¹ï8ÌíôŸ‰-
